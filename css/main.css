@@ -124,6 +124,22 @@ h4 {
   line-height: 20px;
 }
 
+.card-review {
+  font-family: "Heebo", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  padding: 25px 20px 30px;
+  overflow: hidden;
+}
+
+.card-review h2 {
+  margin: 0;
+}
+
+.card-review .author {
+  margin: 20px 0;
+}
+
 main {
   margin-bottom: 50px;
 }
